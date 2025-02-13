@@ -1,2 +1,2 @@
 # Dotfiles
-My system configuration.
+My dotfiles.
